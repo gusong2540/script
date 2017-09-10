@@ -1,5 +1,6 @@
 # git
 $git remote add origin git@github.com:gusong2540/scrit.git
+
 $vi .git/config
 
     [remote "origin"]
@@ -9,3 +10,7 @@ $git push -u origin master
 
 # script
 some scripts used daily
+
+* wrr.py
+
+  >weighted round-robin scheduing
