@@ -1,2 +1,2 @@
 # script
-平时使用小脚本
+some scripts used daily
